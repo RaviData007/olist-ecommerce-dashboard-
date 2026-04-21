@@ -8,7 +8,7 @@
 
 ---
 
-![Dashboard Preview](screenshorts/dashboard_overview.png)
+![Dashboard Preview](screenshot/dashboard_overview.png)
 
 ---
 
