@@ -16,12 +16,12 @@
 
 | # | Finding | Data Point |
 |---|---------|-----------|
-| 1 | **Black Friday 2017** was Olist's single highest revenue day | R$178,450 in one day (24 Nov 2017) |
-| 2 | **Credit cards** dominate payment — Brazil's instalment culture is visible | 73% of all orders paid by credit card |
-| 3 | **São Paulo** sellers generate the most revenue of any state | SP accounts for 40%+ of total revenue |
+| 1 | **Black Friday 2017** was Olist's single highest revenue day | R$152,654 in one day (24 Nov 2017) |
+| 2 | **Credit cards** dominate payment — Brazil's instalment culture is visible | 76% of all orders paid by credit card |
+| 3 | **São Paulo** sellers generate the most revenue of any state | SP accounts for 64%+ of total revenue |
 | 4 | **Health & Beauty** and **Watches & Gifts** are the top two revenue categories | Combined ~20% of total revenue |
 | 5 | **Late delivery correlates with poor reviews** | Late orders avg 0.8 points lower review score |
-| 6 | **Revenue grew 21% from 2017 to 2018** | R$7.1M → R$8.6M year-over-year |
+| 6 | **Revenue grew 20% from 2017 to 2018** | R$6.2M → R$7.4M year-over-year |
 | 7 | **62% of customers never write a review** — only click a star rating | 58,431 of 99,000 orders have no review text |
 
 ---
