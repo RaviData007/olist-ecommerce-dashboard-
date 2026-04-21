@@ -265,7 +265,7 @@ Output: `data/clean/olist_master.csv` (~97,000 rows)
 ## Author
 
 **Ravi**  
-[LinkedIn](https://www.linkedin.com/in/ravi-parmar-25836636) · [GitHub](https://github.com/RaviData007)	
+[LinkedIn](https://www.linkedin.com/in/raviparmar05) · [GitHub](https://github.com/RaviData007)	
 
 ---
 
